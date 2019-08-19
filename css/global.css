@@ -3,6 +3,7 @@
 	font-size: 14px; 
 }
 
+
 .gabo .test{ font-size: 10px; }
 .gabo .hello{ color:#fff; } 
 
@@ -11,3 +12,5 @@
 .body .slider{
 	width: 100%;
 }
+.gabo2 .testing{ border: 1px solid #fff; }
+.gabo3 .local{ color:#000; }
