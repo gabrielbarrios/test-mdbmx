@@ -1,6 +1,13 @@
-.body{  background: #111; }
+.body{  
+	background: #111;
+	font-size: 14px; 
+}
 
 .gabo .test{ font-size: 10px; }
 .gabo .hello{ color:#fff; } 
 
 .nick .hi{color: 000;}
+
+.body .slider{
+	width: 100%;
+}
