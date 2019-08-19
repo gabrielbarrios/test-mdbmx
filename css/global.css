@@ -7,10 +7,12 @@
 .gabo .test{ font-size: 10px; }
 .gabo .hello{ color:#fff; } 
 
-.nick .hi{color: 000;}
+.nick .hi{color: #000;}
 
 .body .slider{
 	width: 100%;
 }
 .gabo2 .testing{ border: 1px solid #fff; }
 .gabo3 .local{ color:#000; }
+
+.new .class{color: #333;}
